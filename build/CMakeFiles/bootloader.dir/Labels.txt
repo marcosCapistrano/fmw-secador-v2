@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/CMakeFiles/bootloader
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/CMakeFiles/bootloader.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/CMakeFiles/bootloader-complete.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/marcoscapistrano/esp/nextion-teste-definitivo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
